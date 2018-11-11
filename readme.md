@@ -1,5 +1,6 @@
 # Notifier 
-![Notifier](app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true "Notifier")
+![Notifier](app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true "Notifier") 
+
 The repo contains the code of task for my winter internship at ColdBrew
 Tech. 
 #### Task 

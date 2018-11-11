@@ -9,7 +9,6 @@ update it as user scrolls down by fetching old notifications as well as
 fetching latest notification. 
 ## Library Used 
 * Dagger
-* Retfofit2
-* LiveData
+* Retrofit2
 * Data Binding
 

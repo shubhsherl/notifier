@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotifyMe</string>
+    <string name="loading_notifications">Loading Notifications ...</string>
+    <string name="notify_me_title_button">NotifyMe (Top)</string>
+    <string name="notification_list">Notification List</string>
+    <string name="notification">Notification</string>
+    <string name="loading_notification">Loading Notification ...</string>
+</resources>
